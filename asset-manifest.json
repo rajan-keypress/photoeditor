@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photoeditor/static/css/main.5152fc92.chunk.css",
+    "main.js": "/photoeditor/static/js/main.0bdd47a4.chunk.js",
+    "main.js.map": "/photoeditor/static/js/main.0bdd47a4.chunk.js.map",
+    "runtime-main.js": "/photoeditor/static/js/runtime-main.ccd8c087.js",
+    "runtime-main.js.map": "/photoeditor/static/js/runtime-main.ccd8c087.js.map",
+    "static/js/2.f14a34d8.chunk.js": "/photoeditor/static/js/2.f14a34d8.chunk.js",
+    "static/js/2.f14a34d8.chunk.js.map": "/photoeditor/static/js/2.f14a34d8.chunk.js.map",
+    "static/js/3.ef26978f.chunk.js": "/photoeditor/static/js/3.ef26978f.chunk.js",
+    "static/js/3.ef26978f.chunk.js.map": "/photoeditor/static/js/3.ef26978f.chunk.js.map",
+    "index.html": "/photoeditor/index.html",
+    "static/css/main.5152fc92.chunk.css.map": "/photoeditor/static/css/main.5152fc92.chunk.css.map",
+    "static/js/2.f14a34d8.chunk.js.LICENSE.txt": "/photoeditor/static/js/2.f14a34d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd8c087.js",
+    "static/js/2.f14a34d8.chunk.js",
+    "static/css/main.5152fc92.chunk.css",
+    "static/js/main.0bdd47a4.chunk.js"
+  ]
+}
